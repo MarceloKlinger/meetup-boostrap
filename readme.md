@@ -4,7 +4,7 @@
 </h1>
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information-source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">Licença</a>
 </p>
 
@@ -23,7 +23,7 @@
 -  [VS Code][vc]
 -  [Live Server | VSCode Extension](https://github.com/ritwickdey/vscode-live-server)
   
-## :information: Como usar
+## :information_source: Como usar
 
 Clonar o repositório da aplicação e instale a extensão Live Server.
 
