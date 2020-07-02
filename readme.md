@@ -3,8 +3,8 @@
     Challenge Meetup PRODAP
 </h1>
 <p align="center">
-  <a href="#rocket-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">Licença</a>
 </p>
 
@@ -23,7 +23,7 @@
 -  [VS Code][vc]
 -  [Live Server | VSCode Extension](https://github.com/ritwickdey/vscode-live-server)
   
-## :information_source: Como usar
+## :information: Como usar
 
 Clonar o repositório da aplicação e instale a extensão Live Server.
 
