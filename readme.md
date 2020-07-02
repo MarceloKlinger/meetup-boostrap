@@ -8,7 +8,7 @@
   <a href="#memo-license">Licença</a>
 </p>
 
-![App Screenshot](https://i.ibb.co/K6btrTv/bootstrap.png)
+<img src="https://i.ibb.co/K6btrTv/bootstrap.png" alt="page" />
 <p align="center">
   <a href="https://marceloklinger.github.io/meetup-boostrap/cursos/" target="_blank">
     <img alt="Demo on GitPage" src="https://i.ibb.co/mXwcqZZ/Slice-1.png">
