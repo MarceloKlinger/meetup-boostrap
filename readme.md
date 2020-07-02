@@ -7,8 +7,7 @@
   <a href="#information-source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">Licença</a>
 </p>
-
-<img src="https://i.ibb.co/K6btrTv/bootstrap.png" alt="page" />
+<h1><img src="https://ik.imagekit.io/k9nuvlg2vw/bootstrap_aSjVu1_s5.png" alt="page" /></>
 <p align="center">
   <a href="https://marceloklinger.github.io/meetup-boostrap/cursos/" target="_blank">
     <img alt="Demo on GitPage" src="https://i.ibb.co/mXwcqZZ/Slice-1.png">
