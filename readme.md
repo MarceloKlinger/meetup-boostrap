@@ -10,14 +10,14 @@
 
 ![App Screenshot](https://i.ibb.co/K6btrTv/bootstrap.png)
 <p align="center">
-  <a href="https://marceloklinger.github.io/meetup-boostrap/cursos/index.html" target="_blank">
+  <a href="https://marceloklinger.github.io/meetup-boostrap/cursos/" target="_blank">
     <img alt="Demo on GitPage" src="https://i.ibb.co/mXwcqZZ/Slice-1.png">
   </a>
 </p>
 
 ## :rocket: Tecnologias
 
--  [Bootstrp](https://getbootstrap.com/)
+-  [Bootstrap](https://getbootstrap.com/)
 -  [HTML](https://www.w3schools.com/html/)
 -  [CSS](https://www.w3schools.com/css/default.asp)
 -  [VS Code][vc]
